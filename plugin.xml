@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         id="cordova-plugin-biometric-keychain"
-		version="0.0.2">
+		version="0.0.5">
     <name>Biometric and Keychain</name>
 	  <author>S.Al-Bacha</author>
     <description>Biometric and Keychain cordova plugin for iOS and Android</description>
@@ -11,8 +11,8 @@
       <engine name="cordova" version=">=3.0.0"/>
     </engines>
 
-    <repo>https://github.com/SleimanB/PTeam-Keychain-Biometric.git</repo>
-    <issue>https://github.com/SleimanB/PTeam-Keychain-Biometric.git</issue>
+    <repo>https://github.com/kamiljackiewicz/PTeam-Keychain-Biometric.git</repo>
+    <issue>https://github.com/kamiljackiewicz/PTeam-Keychain-Biometric.git</issue>
 	  <js-module src="www/touchid.js" name="TouchID">
         <clobbers target="window.plugins.touchid" />
     </js-module>

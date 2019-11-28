@@ -15,15 +15,15 @@
   ~ limitations under the License
   -->
 <resources>
-    <string name="cancel">取消</string>
-    <string name="use_backup">backup</string>
-    <string name="fingerprint_auth_dialog_title">Fingerprint認證</string>
-    <string name="ok">Ok</string>
-    <string name="fingerprint_description">確認fingerprint以繼續</string>
-    <string name="fingerprint_hint">Touch sensor</string>
-    <string name="fingerprint_not_recognized">Fingerprint無法識別。再試一次。</string>
-    <string name="fingerprint_success">Fingerprint被認可</string>
-    <string name="new_fingerprint_enrolled_description">新的fingerprint已添加到此設備，因此需要您輸入密碼。</string>
+    <string name="cancel">稍後再說</string>
+    <string name="use_backup">使用備份</string>
+    <string name="fingerprint_auth_dialog_title">指紋認證</string>
+    <string name="ok">確認</string>
+    <string name="fingerprint_description">確認指紋識別並繼續</string>
+    <string name="fingerprint_hint">觸摸感測器</string>
+    <string name="fingerprint_not_recognized">未能識別指紋，請重新嘗試</string>
+    <string name="fingerprint_success">指紋識別成功</string>
+    <string name="new_fingerprint_enrolled_description">該設備上添加了新的指紋，因此需要您輸入密碼</string>
     <string name="secure_lock_screen_required">需設定螢幕鎖定</string>
     <string name="fingerprint_too_many_attempts">嘗試次數過多，請稍後再試。</string>
 </resources>

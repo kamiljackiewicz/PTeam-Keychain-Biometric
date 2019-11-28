@@ -15,15 +15,15 @@
   ~ limitations under the License
   -->
 <resources>
-    <string name="cancel">Annuler</string>
-    <string name="use_backup">Utilisez backup</string>
-    <string name="fingerprint_auth_dialog_title">Authentification fingerprint</string>
+    <string name="cancel">Pas maintenant</string>
+    <string name="use_backup">Utilisez une sauvegarde</string>
+    <string name="fingerprint_auth_dialog_title">Authentification par empreinte digitale</string>
     <string name="ok">Ok</string>
-    <string name="fingerprint_description">Confirmez fingerprint pour continuer</string>
-    <string name="fingerprint_hint">Touch sensor</string>
-    <string name="fingerprint_not_recognized">Fingerprint non reconnu. Réessayer.</string>
-    <string name="fingerprint_success">Fingerprint reconnu.</string>
-    <string name="new_fingerprint_enrolled_description">Un nouveau fingerprint a été ajouté à cet appareil, votre mot de passe est requis.</string>
+    <string name="fingerprint_description">Confirmez l\'empreinte digitale</string>
+    <string name="fingerprint_hint">Détecteur Tactile</string>
+    <string name="fingerprint_not_recognized">Empreinte digitale non reconnue. Veuillez réessayer</string>
+    <string name="fingerprint_success">Empreinte digitale non reconnue</string>
+    <string name="new_fingerprint_enrolled_description">Une nouvelle empreinte digitale a été ajoutée à votre appareil, votre mot de passe est requis</string>
     <string name="secure_lock_screen_required">Écran de verrouillage sécurisé nécessaire!</string>
     <string name="fingerprint_too_many_attempts">Trop d\'essais. Essayer à nouveau ultérieurement.</string>
 </resources>

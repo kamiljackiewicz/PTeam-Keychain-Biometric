@@ -15,15 +15,15 @@
   ~ limitations under the License
   -->
 <resources>
-    <string name="cancel">Stornieren</string>
-    <string name="use_backup">backup</string>
-    <string name="fingerprint_auth_dialog_title">Fingerprint-Authentifizierung</string>
+    <string name="cancel">Nicht jetzt</string>
+    <string name="use_backup">Backup</string>
+    <string name="fingerprint_auth_dialog_title">Fingerabdruck-Authentifizierung</string>
     <string name="ok">Ok</string>
-    <string name="fingerprint_description">Bestätigen Sie fingerprint, um fortzufahren</string>
+    <string name="fingerprint_description">Bestätigen Sie den Fingerabdruck, um fortzufahren</string>
     <string name="fingerprint_hint">Touch sensor</string>
-    <string name="fingerprint_not_recognized">Fingerprint wird nicht erkannt. Versuch es noch einmal.</string>
+    <string name="fingerprint_not_recognized">Fingerabdruck nicht erkannt. Bitte versuchen Sie es noch einmal.</string>
     <string name="fingerprint_success">Fingerprint erkannt</string>
-    <string name="new_fingerprint_enrolled_description">Diesem Gerät wurde ein neues fingerprint hinzugefügt, daher ist Ihr Kennwort erforderlich.</string>
+    <string name="new_fingerprint_enrolled_description">Diesem Gerät wurde ein neuer Fingerabdruck hinzugefügt, daher ist Ihr Kennwort erforderlich.</string>
     <string name="secure_lock_screen_required">Ihr Muster ist benötigt!</string>
     <string name="fingerprint_too_many_attempts">Zu viele Versuche. Bitte später nochmals versuchen.</string>
 </resources>

@@ -15,15 +15,15 @@
   ~ limitations under the License
   -->
 <resources>
-    <string name="cancel">Annulla</string>
+    <string name="cancel">Non ora</string>
     <string name="use_backup">Usa backup</string>
-    <string name="fingerprint_auth_dialog_title">Autenticazione Fingerprint</string>
+    <string name="fingerprint_auth_dialog_title">Autenticazione con Fingerprint</string>
     <string name="ok">Ok</string>
-    <string name="fingerprint_description">Tocca per accedere</string>
+    <string name="fingerprint_description">Conferma la tua impronta per continuare</string>
     <string name="fingerprint_hint">Touch sensor</string>
-    <string name="fingerprint_not_recognized">Impronta non riconosciuta, prova ancora</string>
+    <string name="fingerprint_not_recognized">Impronta non riconosciuta. Prova ancora</string>
     <string name="fingerprint_success">Impronta riconosciuta</string>
-    <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
+    <string name="new_fingerprint_enrolled_description">Poiché una nuova impronta è stata aggiunta a questo device la tua password è richiesta per continuare</string>
     <string name="secure_lock_screen_required">Richiesta schermata di blocco sicuro!</string>
     <string name="fingerprint_too_many_attempts">Troppi tentativi. Riprova più tardi.</string>
 </resources>

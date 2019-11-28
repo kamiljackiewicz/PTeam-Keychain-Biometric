@@ -15,15 +15,15 @@
   ~ limitations under the License
   -->
 <resources>
-    <string name="cancel">キャンセル</string>
-    <string name="use_backup">backup</string>
-    <string name="fingerprint_auth_dialog_title">Fingerprint認証</string>
+    <string name="cancel">後で</string>
+    <string name="use_backup">バックアップから使用</string>
+    <string name="fingerprint_auth_dialog_title">指紋認証</string>
     <string name="ok">Ok</string>
-    <string name="fingerprint_description">Fingerprintを確認して続行します</string>
-    <string name="fingerprint_hint">Touch sensor</string>
-    <string name="fingerprint_not_recognized">Fingerprintが認識されません。再試行する。</string>
-    <string name="fingerprint_success">Fingerprintが認識されました</string>
-    <string name="new_fingerprint_enrolled_description">新しいfingerprintがこのデバイスに追加されたため、パスワードが必要です。</string>
+    <string name="fingerprint_description">指紋認証を続ける</string>
+    <string name="fingerprint_hint">タッチセンサー</string>
+    <string name="fingerprint_not_recognized">指紋が読み取れません。再試行。</string>
+    <string name="fingerprint_success">指紋認証できました</string>
+    <string name="new_fingerprint_enrolled_description">新しい指紋データが登録されました。パスワードが必要です。</string>
     <string name="secure_lock_screen_required">セキュア・ロック画面が必要です</string>
     <string name="fingerprint_too_many_attempts">試行が多すぎます。後で再試行してください。</string>
 </resources>
